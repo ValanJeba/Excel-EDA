@@ -28,11 +28,8 @@ The project focuses on:
 
 ## Tech Stack
 
-- Microsoft Excel (Data Cleaning, Transformation, Visualization)  
-- Python 3.x (Optional if scripting applied)  
-- Pandas, NumPy *(if applicable)*  
-- Matplotlib, Seaborn *(if applicable)*  
-
+- Microsoft Excel (Data Cleaning, Transformation, Visualization)
+  
 ---
 
 ## Key Insights
